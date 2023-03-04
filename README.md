@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alicedaisysmith
 - 👀 I’m interested in front end development 
-- 🌱 I’m currently learning javascript, css and react through Codecademy 
+- 🌱 I’m currently an apprentice software developer at Dedalus!
 
 <!---
 alicedaisysmith/alicedaisysmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
